@@ -49,7 +49,7 @@
 </hr>
 
 # 📊 GitHub Stats:
-<p align="left">
+<p align="center">
   <a>
     <img height="140" width="140" src="https://github.com/shambashib20/shambashib20/blob/e70a0f963545438454fa42b8d7b2efa68fec0f6b/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanverma1101&theme=dark&hide_border=false"/>
