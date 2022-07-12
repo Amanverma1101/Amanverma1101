@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 # 💫 About Me:
 🔭 I am currently working on my Backend skills<br>👯I'm looking to collaborate on various projects<br>🤝I'm looking for help with people of my type<br>🌱I'm currently learning NodeJS and focusing on DSA<br>💬You can reach me out on amanvermabitd@gmail.com<br>⚡Fun fact: Collab together and you will get to know ;)
 
