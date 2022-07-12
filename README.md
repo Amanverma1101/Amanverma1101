@@ -9,12 +9,12 @@
 <!-- # 💫 About Me: -->
 # Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-🔭 I am currently working on my Portfolio<br>
-👯I'm looking to collaborate on various projects<br>
-🤝I'm looking for help with people of my type<br>
-🌱I'm currently learning NodeJS and focusing on DSA<br>
-💬You can reach me out on amanvermabitd@gmail.com<br>
-⚡Fun fact: Collab together and you will get to know ;)
+🔭  I am currently working on my Portfolio<br>
+👯  I'm looking to collaborate on various projects<br>
+🤝  I'm looking for help with people of my type<br>
+🌱  I'm currently learning NodeJS and focusing on DSA<br>
+💬  You can reach me out on amanvermabitd@gmail.com<br>
+⚡  Fun fact: Collab together and you will get to know ;)
 
 
 ## 🌐 Socials:
