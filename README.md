@@ -48,7 +48,7 @@
 </br>
 </hr>
 
-
+# 📊 GitHub Stats:
 <p align="left">
   <a>
     <img height="140" width="140" src="https://github.com/shambashib20/shambashib20/blob/e70a0f963545438454fa42b8d7b2efa68fec0f6b/PNG/left.png">
@@ -56,12 +56,7 @@
     <img height="140" width="140" src="https://github.com/shambashib20/shambashib20/blob/e70a0f963545438454fa42b8d7b2efa68fec0f6b/PNG/right.png">
   </a>
 </p>
-
-
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amanverma1101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amanverma1101&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanverma1101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
