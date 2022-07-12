@@ -7,8 +7,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-verma1101)</br>
-[![HackerRank](https://img.shields.io/badge/HackerRank-%170077C5.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/8211amanverma)</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-verma1101)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%170077C5.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/8211amanverma)
 [![Github](https://img.shields.io/badge/Github-lightgrey.svg?logo=github&logoColor=white)](https://github.com/Amanverma1101) </br>
 
 # 💻 Tech Stack:
