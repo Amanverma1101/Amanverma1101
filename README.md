@@ -1,11 +1,15 @@
 
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
+
+# [⚡Devraj Chatribin⚡](https://devrajchatribin.com/)
+
 <!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
 
-# 💫 About Me:
+<!-- # 💫 About Me: -->
+# Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
-🔭 I am currently working on my Backend skills<br>
+🔭 I am currently working on my Portfolio<br>
 👯I'm looking to collaborate on various projects<br>
 🤝I'm looking for help with people of my type<br>
 🌱I'm currently learning NodeJS and focusing on DSA<br>
