@@ -2,13 +2,12 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 ![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-# [⚡Aman Verma⚡](https://amanfolio.netlify.app/)
-
+# Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
 
 <!-- # 💫 About Me: -->
-# Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+# Myself [⚡Aman Verma⚡](https://amanfolio.netlify.app/)
 
 🔭  I am currently working on my Portfolio<br>
 👯  I'm looking to collaborate on various projects<br>
@@ -22,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-verma1101)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%170077C5.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/8211amanverma)
 [![Github](https://img.shields.io/badge/Github-lightgrey.svg?logo=github&logoColor=white)](https://github.com/Amanverma1101) </br>
+</br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -46,7 +46,9 @@
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </br>
+</br>
 </hr>
+
 
 # 📊 GitHub Stats:
 <p align="center">
