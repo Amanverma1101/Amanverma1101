@@ -1,7 +1,3 @@
-
-
-
-
 # 💫 About Me:
 🔭 I am currently working on my Backend skills<br>👯I'm looking to collaborate on various projects<br>🤝I'm looking for help with people of my type<br>🌱I'm currently learning NodeJS and focusing on DSA<br>💬You can reach me out on amanvermabitd@gmail.com<br>⚡Fun fact: Collab together and you will get to know ;)
 
@@ -26,5 +22,5 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amanverma1101&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Amanverma1101&icon=0&color=0)](https://visitcount.itsvg.in)
 
