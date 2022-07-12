@@ -15,10 +15,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanverma1101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</br>
-<!-- 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanverma1101&label=Profile%20views&color=0e75b6&style=flat" alt="amanverma1101" /> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+![][(https://visitcount.itsvg.in/api?id=Amanverma1101&icon=0&color=0)](https://visitcount.itsvg.in)
